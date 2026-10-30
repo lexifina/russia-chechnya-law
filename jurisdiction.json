@@ -1,0 +1,11 @@
+{
+  "path": "ru-ce",
+  "code": "RU-CE",
+  "name": "Chechen Republic",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-chechnya-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
