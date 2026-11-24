@@ -1,6 +1,6 @@
 # Chechen Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 13 versions, from 2026-03-06 (latest in force: 2026-09-28) · <http://publication.pravo.gov.ru/documents/block/region20>
+Законы 2026 · 15 versions, from 2026-03-06 (latest in force: 2026-11-19) · <http://publication.pravo.gov.ru/documents/block/region20>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -38,6 +38,12 @@
 | Закон № 38-РЗ | [38-rz.md](38-rz.md) | 1 | 2026-09-28 |
 | Закон № 39-РЗ | [39-rz.md](39-rz.md) | 1 | 2026-09-28 |
 | Закон № 4-РЗ | [4-rz.md](4-rz.md) | 1 | 2026-03-17 |
+| Закон № 41-РЗ | [41-rz.md](41-rz.md) | 1 | 2026-11-05 |
+| Закон № 42-РЗ | [42-rz.md](42-rz.md) | 1 | 2026-11-05 |
+| Закон № 43-РЗ | [43-rz.md](43-rz.md) | 1 | 2026-11-05 |
+| Закон № 44-РЗ | [44-rz.md](44-rz.md) | 1 | 2026-11-05 |
+| Закон № 45-РЗ | [45-rz.md](45-rz.md) | 1 | 2026-11-05 |
+| Закон № 46-РЗ | [46-rz.md](46-rz.md) | 1 | 2026-11-19 |
 | Закон № 5-РЗ | [5-rz.md](5-rz.md) | 1 | 2026-03-17 |
 | Закон № 6-РЗ | [6-rz.md](6-rz.md) | 1 | 2026-03-17 |
 | Закон № 7-РЗ | [7-rz.md](7-rz.md) | 1 | 2026-04-13 |
