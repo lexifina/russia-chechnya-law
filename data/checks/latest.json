@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:10:15Z",
+ "generated": "2026-11-25T06:58:26Z",
  "latest": {
   "pravo-chechnya|russia/chechnya/acts": {
    "attempt": 1,
@@ -13,36 +13,25 @@
    },
    "census": {
     "checked": 655,
-    "current": 649,
+    "current": 655,
     "gone": 0,
-    "held": 649,
-    "newest_in_repo": "2026-09-28",
-    "pending": 6,
-    "repo": 649,
+    "held": 655,
+    "newest_in_repo": "2026-11-19",
+    "pending": 0,
+    "repo": 655,
     "source_in_scope": 655
    },
-   "check_id": "ru-pravo-chechnya-20261124T130838Z",
-   "commits": {
-    "count": 3,
-    "from": "d7d68d1bec935c98eb6df618dc5d198c19138820",
-    "to": "ae1dc487321b8b0987e22bc613df857dd557c099"
-   },
+   "check_id": "ru-pravo-chechnya-20261125T051910Z",
+   "commits": null,
    "corpus": "russia/chechnya/acts",
    "error": null,
-   "finished": "2026-11-24T13:10:15Z",
+   "finished": "2026-11-25T05:21:06Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region20: 655 law-type documents listed (every page read); 649 held here; 6 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region20: 655 law-type documents listed (every page read); 655 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "2000202611050008",
-     "2000202611050009",
-     "2000202611050010",
-     "2000202611050011",
-     "2000202611050012",
-     "2000202611190002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -50,33 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "2000202611050008",
-     "2000202611050009",
-     "2000202611050010",
-     "2000202611050011",
-     "2000202611050012",
-     "2000202611190002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "655 law-type documents in block region20; newest published 2026-11-19",
    "source": "pravo-chechnya",
-   "started": "2026-11-24T13:08:38Z",
+   "started": "2026-11-25T05:19:10Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
