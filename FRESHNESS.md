@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Chechen Republic: Official Internet Portal of Legal Information (region20) · `russia/chechnya/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:21 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:17 UTC**.
 - Acts held here: 655; current at the source: 655; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
