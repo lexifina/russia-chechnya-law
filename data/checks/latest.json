@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:08:01Z",
+ "generated": "2026-11-28T06:22:22Z",
  "latest": {
   "pravo-chechnya|russia/chechnya/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 655,
     "source_in_scope": 655
    },
-   "check_id": "ru-pravo-chechnya-20261127T051728Z",
+   "check_id": "ru-pravo-chechnya-20261128T052545Z",
    "commits": null,
    "corpus": "russia/chechnya/acts",
    "error": null,
-   "finished": "2026-11-27T05:17:52Z",
+   "finished": "2026-11-28T05:26:12Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region20: 655 law-type documents listed (every page read); 655 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "655 law-type documents in block region20; newest published 2026-11-19",
    "source": "pravo-chechnya",
-   "started": "2026-11-27T05:17:28Z",
+   "started": "2026-11-28T05:25:45Z",
    "unexplained": 0,
    "update": {
     "parts": []
